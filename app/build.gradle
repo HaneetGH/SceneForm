@@ -64,3 +64,9 @@ sceneform.asset('sampledata/models/andy.obj',
         'sampledata/models/andy.sfa',
         'src/main/res/raw/andy')
 
+
+
+sceneform.asset('sampledata/model2/model.fbx',
+        'default',
+        'sampledata/model2/model.sfa',
+        'src/main/res/raw/model')
