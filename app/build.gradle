@@ -70,3 +70,8 @@ sceneform.asset('sampledata/model2/model.fbx',
         'default',
         'sampledata/model2/model.sfa',
         'src/main/res/raw/model')
+
+sceneform.asset('sampledata/model3/model.fbx',
+        'default',
+        'sampledata/model3/model.sfa',
+        'src/main/res/raw/model2')
